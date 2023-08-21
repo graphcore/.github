@@ -3,12 +3,16 @@
   <img width="300" alt="Graphcore logo" src="https://user-images.githubusercontent.com/81682248/226963440-9cae0ac4-ebf5-407a-9870-5679e434cada.png">
 </picture>
 
-## Make new breakthroughs with Generative AI
-Build and deploy AI solutions and generative AI products and platforms using advanced IPU compute from Graphcore on demand in the cloud. Get started with a wide range of ML models covering Computer Vision, NLP, Graph Neural Networks, and more.
+## Make new breakthroughs with Generative AI & Machine Learning
 
-**[Try now for free!](https://www.graphcore.ai/paperspace)**
+Build and deploy AI solutions and generative AI products and platforms using advanced IPU compute from Graphcore on demand in the cloud. Get started with a wide range of ML models covering Computer Vision, NLP, Generative AI, Graph Neural Networks (GNNs), and more. 
 
-### Developer Resources
-[Jupyter Notebooks](https://www.graphcore.ai/ipu-jupyter-notebooks) | [Applications](https://github.com/graphcore/examples) | [Tutorials](https://github.com/graphcore/examples/tree/master/tutorials) | [Model Garden](https://www.graphcore.ai/resources/model-garden) | [Documentation](https://docs.graphcore.ai/en/latest/) | [Downloads](https://www.graphcore.ai/downloads)
+**[Try IPUs now for free!](https://www.graphcore.ai/paperspace)**
 
-[![Join our Slack Community](https://img.shields.io/badge/Slack-Join%20Graphcore's%20Community-blue?style=flat-square&logo=slack)](https://www.graphcore.ai/join-community)
+### GitHub resources 
+[Applications](https://github.com/graphcore/examples) – Graphcore IPU application examples 
+[Optimum Graphcore](https://github.com/huggingface/optimum-graphcore) – Applications and notebooks running  Hugging Face  Transformers on IPUs 
+[Tutorials](https://github.com/graphcore/examples/tree/master/tutorials) - Tutorials, feature examples and simple applications to help you learn how to use IPUs 
+
+### Other Developer Resources 
+[Jupyter Notebooks](https://www.graphcore.ai/ipu-jupyter-notebooks) | [Model Garden](https://www.graphcore.ai/resources/model-garden) | [Documentation](https://docs.graphcore.ai/en/latest/) | [Downloads](https://www.graphcore.ai/downloads)
