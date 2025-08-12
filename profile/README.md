@@ -7,12 +7,13 @@
 
 Build and deploy AI solutions and generative AI products and platforms using advanced IPU compute from Graphcore on demand in the cloud. Get started with a wide range of ML models covering Computer Vision, NLP, Generative AI, Graph Neural Networks (GNNs), and more. 
 
-**[Try IPUs now for free!](https://www.graphcore.ai/paperspace)**
-
-### GitHub resources 
+### GitHub resources
 [Applications](https://github.com/graphcore/examples) – Graphcore IPU application examples<br>
 [Optimum Graphcore](https://github.com/huggingface/optimum-graphcore) – Applications and notebooks running  Hugging Face  Transformers on IPUs<br>
 [Tutorials](https://github.com/graphcore/examples/tree/master/tutorials) - Tutorials, feature examples and simple applications to help you learn how to use IPUs<br>
+[Graphcore-research](https://github.com/graphcore-research) – Graphcore Research is contributing to the advancement of AI and machine intelligence<br>
 
-### Other Developer Resources 
+### Other Developer Resources
 [Jupyter Notebooks](https://www.graphcore.ai/ipu-jupyter-notebooks) | [Model Garden](https://www.graphcore.ai/resources/model-garden) | [Documentation](https://docs.graphcore.ai/en/latest/) | [Downloads](https://www.graphcore.ai/downloads)
+
+
