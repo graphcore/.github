@@ -3,9 +3,9 @@
   <img width="300" alt="Graphcore logo" src="https://user-images.githubusercontent.com/81682248/226963440-9cae0ac4-ebf5-407a-9870-5679e434cada.png">
 </picture>
 
-## Make new breakthroughs with Generative AI & Machine Learning
+Graphcore is back in stealth, building the next generation of AI compute. We are now part of the SoftBank Group which has an ambitious and exciting AI vision and we are growing fast. If you want to join us, please check out [Jobs](https://www.graphcore.ai/jobs)<br>
 
-Build and deploy AI solutions and generative AI products and platforms using advanced IPU compute from Graphcore on demand in the cloud. Get started with a wide range of ML models covering Computer Vision, NLP, Generative AI, Graph Neural Networks (GNNs), and more. 
+Customers of our legacy IPU products, can still access our GitHub repos and other resources.
 
 ### GitHub resources
 [Applications](https://github.com/graphcore/examples) – Graphcore IPU application examples<br>
@@ -15,5 +15,3 @@ Build and deploy AI solutions and generative AI products and platforms using adv
 
 ### Other Developer Resources
 [Jupyter Notebooks](https://www.graphcore.ai/ipu-jupyter-notebooks) | [Model Garden](https://www.graphcore.ai/resources/model-garden) | [Documentation](https://docs.graphcore.ai/en/latest/) | [Downloads](https://www.graphcore.ai/downloads)
-
-
