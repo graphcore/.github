@@ -5,7 +5,7 @@
 
 Graphcore is back in stealth, building the next generation of AI compute. We are now part of the SoftBank Group which has an ambitious and exciting AI vision and we are growing fast. If you want to join us, please check out [Jobs](https://www.graphcore.ai/jobs)<br>
 
-Customers of our legacy IPU products, can still access our GitHub repos and other resources.
+Customers of our legacy IPU products can still access our GitHub repos and other resources.
 
 ### GitHub resources
 [Applications](https://github.com/graphcore/examples) – Graphcore IPU application examples<br>
